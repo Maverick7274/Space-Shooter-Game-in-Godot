@@ -1,1 +1,1 @@
-# Space-Shooter-Game-in-Godot
+# Space Shooter Game in Godot
